@@ -1,0 +1,12 @@
+﻿  Catalogo.cpp
+C:\Users\santi\source\repos\progra itc3\spDungeonsAndDragons\spDungeonsAndDragons\Catalogo.h(13,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Cuarto.cpp
+  Dungeon.cpp
+C:\Users\santi\source\repos\progra itc3\spDungeonsAndDragons\spDungeonsAndDragons\templateGrafos.h(9,9): warning C4005: 'UINT_MAX': redefinición de macro
+  Jugador.cpp
+  Monstruo.cpp
+  main.cpp
+C:\Users\santi\source\repos\progra itc3\spDungeonsAndDragons\spDungeonsAndDragons\Catalogo.h(13,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\santi\source\repos\progra itc3\spDungeonsAndDragons\spDungeonsAndDragons\templateGrafos.h(9,9): warning C4005: 'UINT_MAX': redefinición de macro
+  Generando código...
+  spDungeonsAndDragons.vcxproj -> C:\Users\santi\source\repos\progra itc3\spDungeonsAndDragons\x64\Debug\spDungeonsAndDragons.exe
